@@ -1,0 +1,14 @@
+apache-airflow-breeze==0.0.1
+argcomplete==3.5.1
+click==8.1.7
+docutils==0.21.2
+execnet==2.1.1
+iniconfig==2.0.0
+markdown-it-py==3.0.0
+mdurl==0.1.2
+packaging==24.1
+pluggy==1.5.0
+Pygments==2.18.0
+pytest==8.3.3
+pytest-xdist==3.6.1
+rich==13.9.2
